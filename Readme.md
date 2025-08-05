@@ -170,6 +170,10 @@ Applied to PIPs that failed to receive sufficient **For** votes or achieve votin
 
 A [NodeOps DAO](/Tokenomics/governance) proposal is made up of 7 sections as detailed below.
 
+## 0. Metadata 
+
+This holds the PIP's status. Use **Draft** or **Discussion** when first submitting a PIP according to where it is in the flow.
+
 ## 1. Proposal title
 
 - Format: PIP-XX: Provide a short, clear description.
@@ -213,7 +217,8 @@ Set the window over which voting is possible, typically between 3 and 21 days.
 
 ```markdown
 
-text
+metadata: status
+
 Title: PIP-XX: (Short, clear description)
 
 Summary
