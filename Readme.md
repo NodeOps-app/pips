@@ -4,6 +4,23 @@ NodeOps Network governance relies on Protocol Improvement Proposals (PIPs).
 
 This [repo](https://github.com/NodeOps-app/pips.git) is the single source of truth for such proposals.
 
+This file details how to create and vote on a PIP.
+
+| Section                             |
+|---------------------------------|
+| [Overview](#overview)            |
+| [Voting weights](#voting-weights) |
+| [Administration tasks](#to-be-determined) |
+| [How to submit a PIP](#how-to-submit-a-pip) |
+| [Step 1: Draft](#step-1-draft)  |
+| [Step 2: Discuss](#step-2-discuss) |
+| [Step 3: Ratify](#step-3-ratify) |
+| [Step 4: Implement the vote](#step-4-implement-the-vote) |
+| [PIP statuses](#pip-status)        |
+| [PIP proposal schema](#pip-proposal-schema) |
+| [PIP template](#template-schema) |
+
+
 ## Voting weights
 
 Both general and specialized participants are represented in governance according to their stake and network responsibilities. Votes may be cast according to the following participation classes:
@@ -116,7 +133,7 @@ At the completion of the discussion phase, a final version of the fully-defined 
 
 Should a PIP that's lodged on the main branch of this repository pass the community temperature check on [Discourse](https://nodeops.discourse.group/), then a vote can be initiated.
 
-This requires an onchain vote to be setup for eligible community members to vote on a PIP, identified by its unique number, from [https://portal.nodeops.network](https://portal.nodeops.network/).
+Voting occurs in [https://portal.nodeops.network](https://portal.nodeops.network/). This requires an onchain vote to be setup for eligible community members to vote on a PIP, identified by its unique number/ PIP identifier. 
 
 The PIP defines its own [voting window](#7-voting-window), typically between 3-21 days.The vote will be tallied and the results announced.
 
