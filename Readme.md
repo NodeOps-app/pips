@@ -6,7 +6,7 @@ This [repo](https://github.com/NodeOps-app/pips.git) is the single source of tru
 
 This file details how to create and vote on a PIP.
 
-| Section                             |
+| Table of contents               |
 |---------------------------------|
 | [Overview](#overview)            |
 | [Voting weights](#voting-weights) |
