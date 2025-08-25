@@ -164,7 +164,7 @@ A PIP may exist in one of these exclusive states:
 
 ## NodeOps DAO proposal style & structure guide
 
-A [NodeOps DAO](/Tokenomics/governance) proposal is made up of 7 sections as detailed below.
+A [NodeOps DAO](https://docs.nodeops.network/Tokenomics/governance) proposal is made up of 7 sections as detailed below.
 
 ## 0. Metadata 
 
@@ -251,3 +251,7 @@ Voting window
 - Use clear, accessible language
 - Keep sections brief but informative
 - Link to any supporting documents or references as needed
+
+## What next?
+
+- Consider learning more about [NodeOps DAO](https://docs.nodeops.network/Tokenomics/governance)
