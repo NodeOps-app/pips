@@ -43,7 +43,7 @@ It is likely that several adminstrative roles will need to be created to facilit
 
 ### Step 1: Draft
 
-A PIP starts as a **draft**. This may be a nascent idea brought for discussion with the community on [Discourse](https://nodeops.discourse.group/), it may be a fully formed [PIP brought as a merge request](#submit-a-pip) to this repository that is then presented [to the community](https://nodeops.discourse.group/).
+A PIP starts as a **draft**. This may be a nascent idea brought for discussion with the community on [Discourse](https://forum.nodeops.network), it may be a fully formed [PIP brought as a merge request](#submit-a-pip) to this repository that is then presented [to the community](https://forum.nodeops.network).
 
 ```mermaid
 flowchart TB
@@ -91,7 +91,7 @@ flowchart TB
 
 ### Step 2: Discuss
 
-The next step is for the PIP proponents to engage in discussion with the community. Community members who wish to comment on the PIP should do so in the [Discourse](https://nodeops.discourse.group/) channel.
+The next step is for the PIP proponents to engage in discussion with the community. Community members who wish to comment on the PIP should do so in the [Discourse](https://forum.nodeops.network) channel.
 
 > Don't split the discussion between this GitHub and Discourse.
 
@@ -127,11 +127,11 @@ At the completion of the discussion phase, a final version of the fully-defined 
 
 > The repo maintainers will provide feedback. The scope of the feedback is limited to ensuring that the PIP complies with the [PIP template's](#template-schema) format and structure (for example that the PIP has been assigned a unique number to identify it) and that the PIP is eligible for consideration (for example, applies to Protocol parameters that are within NodeOps Network's control).
 
-> Maintainers will not offer commentary on a PIP's substance. Such feedback is conducted on [Discourse](https://nodeops.discourse.group/).
+> Maintainers will not offer commentary on a PIP's substance. Such feedback is conducted on [Discourse](https://forum.nodeops.network).
 
 ### Step 3: Ratify
 
-Should a PIP that's lodged on the main branch of this repository pass the community temperature check on [Discourse](https://nodeops.discourse.group/), then a vote can be initiated.
+Should a PIP that's lodged on the main branch of this repository pass the community temperature check on [Discourse](https://forum.nodeops.network), then a vote can be initiated.
 
 Voting occurs in [https://portal.nodeops.network](https://portal.nodeops.network/). This requires an onchain vote to be setup for eligible community members to vote on a PIP, identified by its unique number/ PIP identifier. 
 
