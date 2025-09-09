@@ -155,7 +155,6 @@ A PIP may exist in one of these exclusive states:
 |--------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | **Draft**    | [![](https://img.shields.io/badge/Status-Draft-yellow)]()                 | Applied to PIPs submitted to this repo but not yet under discussion on Discourse.                            |
 | **Discussion** | [![](https://img.shields.io/badge/Status-Discussion-lightgrey)]()          | Applied to PIPs submitted to this repo and under discussion on Discourse.                                    |
-|**Voting**|[![](https://img.shields.io/badge/Status-Voting-blue)]|Applied to finalized PIPs that have go-to-vote support from the community. |
 | **Approved** | [![](https://img.shields.io/badge/Status-Approved-brightgreen)]()            | Applied to PIPs that received sufficient **For** votes.                                                       |
 | **Deployed** | [![](https://img.shields.io/badge/Status-Deployed-blue)]()                   | Applied to approved PIPs that have been executed and finalized.                                               |
 | **Rejected** |[![](https://img.shields.io/badge/Status-Rejected-red)]()                    | Applied to PIPs that failed to receive sufficient **For** votes or achieve voting quorum.                    |
