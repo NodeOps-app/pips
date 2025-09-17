@@ -151,15 +151,15 @@ Once the PIP is executed on and finalized at a Protocol level, its status will b
 
 A PIP may exist in one of these exclusive states:
 
-| Status       | Badge Markdown                                                                 | Description                                                                                                   |
+| Status       | Badge Markdown | Description |
 |--------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| **Draft**    | [![](https://img.shields.io/badge/Status-Draft-yellow)]()                 | Applied to PIPs submitted to this repo but not yet under discussion on Discourse.                            |
-| **Discussion** | [![](https://img.shields.io/badge/Status-Discussion-lightgrey)]()          | Applied to PIPs submitted to this repo and under discussion on Discourse.                                    |
-| **Approved** | [![](https://img.shields.io/badge/Status-Approved-brightgreen)]()            | Applied to PIPs that received sufficient **Yes** votes.                                                       |
+| **Approved** | [![](https://img.shields.io/badge/Status-Approved-brightgreen)]()| Applied to PIPs that received sufficient **Yes** votes.|
+| **Discussion** | [![](https://img.shields.io/badge/Status-Discussion-lightgrey)]()| Applied to PIPs submitted to this repo and under discussion on Discourse.|
+| **Deployed** | [![](https://img.shields.io/badge/Status-Deployed-blue)]()| Applied to approved PIPs that have been executed and finalized.|
+| **Draft**    | [![](https://img.shields.io/badge/Status-Draft-yellow)]()| Applied to PIPs submitted to this repo but not yet under discussion on Discourse.|
+| **Rejected** |[![](https://img.shields.io/badge/Status-Rejected-red)]()| Applied to PIPs that failed to receive sufficient **Yes** votes or achieve voting quorum.|
+| **Stale**    | [![](https://img.shields.io/badge/Status-Stale-inactive)]()| Applied to PIPs submitted to this repo that didn't progress to discussion, or didn't receive further updates.|
 |**Voting**|[![](https://img.shields.io/badge/Status-Voting-blue)]()|Applied to finalized PIPs that have go-to-vote support from the community. |
-| **Deployed** | [![](https://img.shields.io/badge/Status-Deployed-blue)]()                   | Applied to approved PIPs that have been executed and finalized.                                               |
-| **Rejected** |[![](https://img.shields.io/badge/Status-Rejected-red)]()                    | Applied to PIPs that failed to receive sufficient **Yes** votes or achieve voting quorum.                    |
-| **Stale**    | [![](https://img.shields.io/badge/Status-Stale-inactive)]()                 | Applied to PIPs submitted to this repo that didn't progress to discussion, or didn't receive further updates.|
 
 ## PIP proposal schema
 
